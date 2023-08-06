@@ -1,2 +1,2 @@
 # Demo
-This repository if for learning git
+This repository is for learning git
